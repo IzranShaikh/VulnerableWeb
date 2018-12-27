@@ -18,5 +18,3 @@
 6.Reflected XSS
 
 7.Stored XSS
-
-> 				Izran Shaikh
