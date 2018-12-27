@@ -3,7 +3,7 @@
 
 ### Note : I'm not responsible for any illegal activity you do with this Web Application
 
-It has Multiple Vulnerabilities listed below
+**It has Multiple _Vulnerabilities_ listed below**
 
 1.Command Execution
 
