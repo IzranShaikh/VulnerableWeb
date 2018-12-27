@@ -1,7 +1,7 @@
 # VulnerableWeb
-# This is a Completely Vulnerable Web Application made with PHP
+# This is a Completely _Vulnerable Web Application_ made with _PHP_ :boom:
 
-### Note : I'm not responsible for any illegal activity you do with this Web Application
+### Note : I'm not responsible for any illegal activity you do with this Web Application :innocent:
 
 **It has Multiple _Vulnerabilities_ listed below**
 
