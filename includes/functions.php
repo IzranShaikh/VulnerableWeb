@@ -6,7 +6,7 @@
         $db_host = 'localhost';
         $db_user = 'root';
         $db_pass = '';
-        $db = 'fisavwa';
+        $db = 'vwa';
         $connection = mysqli_connect($db_host , $db_user , $db_pass , $db);
         if(!$connection)
         {
