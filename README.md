@@ -1,5 +1,5 @@
 # VulnerableWeb
-# This is a Completely Vulnerable Web Application made with PHP
+This is a Completely Vulnerable Web Application made with PHP
 
 # I'm not responsible for any illegal activity you do with this Web Application
 
